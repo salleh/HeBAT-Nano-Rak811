@@ -52,5 +52,5 @@ Mkfile.old
 dkms.conf
 
 
-//LoRA configuration files
+#LoRA configuration files
 lora.h
